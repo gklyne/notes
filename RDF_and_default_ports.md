@@ -8,7 +8,7 @@ It's a fine proposal, but I have a nit with a way he proposes one might use RDF:
 
 > Some of these elements may not be so interesting like "port" if port 80 is the only one being listened on.  The lines can be removed to reduce the number of triples per log event.
 
-As stated, if it's simply a case that the port number is "uninteresting", then this would be fine.  But concern, reinforced somewhat by a [twitter conversation with Erich](ttps://twitter.com/erichbremer/status/339427207799771137]), is that the absence of a port number in the log might be taken to mean that the port number used _is_ 80 for http: (or 443 for https:).
+As stated, if it's simply a case that the port number is "uninteresting", then this would be fine.  But concern, reinforced somewhat by a [twitter conversation with Erich](https://twitter.com/erichbremer/status/339427207799771137), is that the absence of a port number in the log might be taken to mean that the port number used _is_ 80 for http: (or 443 for https:).
 
 This is fine for the HTTP protocol, which does indeed specify that the _default_ port to use is 80 (or 443) if none is explicitly specified in a request.
 

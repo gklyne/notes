@@ -2,9 +2,7 @@
 
 Erich Bremer has described a really neat idea for representing system logs as linked data, noting in particular the potential for better diagnosis of problems involving multiple log-generating components.
 
-Details are [here](http://www.ebremer.com/paladin/pipelogger/2013-04-08)
-
-It's a fine proposal, but I have a nit with a way he proposes one might use RDF:
+Details are at [http://www.ebremer.com/paladin/pipelogger/2013-04-08](http://www.ebremer.com/paladin/pipelogger/2013-04-08).  It's a fine proposal, but I have a nit with a way he proposes one might use RDF:
 
 > Some of these elements may not be so interesting like "port" if port 80 is the only one being listened on.  The lines can be removed to reduce the number of triples per log event.
 

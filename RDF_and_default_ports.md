@@ -2,13 +2,13 @@
 
 Erich Bremer has described a really neat idea for representing system logs as linked data, noting in particular the potential for better diagnosis of problems involving multiple log-generating components.
 
-Details are here: [http://www.ebremer.com/paladin/pipelogger/2013-04-08]()
+Details are [here](http://www.ebremer.com/paladin/pipelogger/2013-04-08)
 
 It's a fine proposal, but I have a nit with a way he proposes one might use RDF:
 
 > Some of these elements may not be so interesting like "port" if port 80 is the only one being listened on.  The lines can be removed to reduce the number of triples per log event.
 
-As stated, if it's simply a case that the port number is "uninteresting", then this would be fine.  But concern, reinforced somewhat by a twitter conversation with Erich ([https://twitter.com/erichbremer/status/339427207799771137]()), is that the absence of a port number in the log might be taken to mean that the port number used _is_ 80 for http: (or 443 for https:).
+As stated, if it's simply a case that the port number is "uninteresting", then this would be fine.  But concern, reinforced somewhat by a [twitter conversation with Erich](ttps://twitter.com/erichbremer/status/339427207799771137]), is that the absence of a port number in the log might be taken to mean that the port number used _is_ 80 for http: (or 443 for https:).
 
 This is fine for the HTTP protocol, which does indeed specify that the _default_ port to use is 80 (or 443) if none is explicitly specified in a request.
 
@@ -22,9 +22,9 @@ That is, if expression A entails C, then A together with some other information 
 
 > Given a set of RDF graphs, there are various ways in which one can 'add' information to it. Any of the graphs may have some triples added to it; the set of graphs may be extended by extra graphs; or the vocabulary of the graph may be interpreted relative to a stronger notion of vocabulary entailment, i.e. with a larger set of semantic conditions understood to be imposed on the interpretations. All of these can be thought of as an addition of information, and may make more entailments hold than held before the change. All of these additions are monotonic, in the sense that entailments which hold before the addition of information, also hold after it.
 
--- [http://www.w3.org/TR/rdf-mt/#MonSemExt]()
+-- [http://www.w3.org/TR/rdf-mt/#MonSemExt](http://www.w3.org/TR/rdf-mt/#MonSemExt)
 
-Consider then the following RDF statements (excerpted from [http://www.ebremer.com/paladin/pipelogger/2013-04-08]()):
+Consider then the following RDF statements (excerpted from [Erich's post](http://www.ebremer.com/paladin/pipelogger/2013-04-08]):
 
     _:req a http:Request;
       http:httpVersion "HTTP/1.1";

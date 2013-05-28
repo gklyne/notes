@@ -24,7 +24,7 @@ That is, if expression A entails C, then A together with some other information 
 
 -- [http://www.w3.org/TR/rdf-mt/#MonSemExt](http://www.w3.org/TR/rdf-mt/#MonSemExt)
 
-Consider then the following RDF statements (excerpted from [Erich's post](http://www.ebremer.com/paladin/pipelogger/2013-04-08]):
+Consider then the following RDF statements (excerpted from [Erich's post](http://www.ebremer.com/paladin/pipelogger/2013-04-08)):
 
     _:req a http:Request;
       http:httpVersion "HTTP/1.1";

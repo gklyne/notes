@@ -2,9 +2,12 @@
 
 Free to a good home, no warranties, etc.  Quite a bit is functional, some not but may be useful for hacks.
 
+
 ## Tools etc
 
-- "performance power" (B&Q brand) hammer drill, non-hammer drill and circular saw with TCT blade; 6 battery packs, but 2-3 have weak cells and need replacements.
+- "performance power" (B&Q brand) hammer drill, in plastic case with charger *Request: David O (for one or other drill)*
+- "performance power" (B&Q brand) non-hammer drill and circular saw with TCT blade, in plastic case with charger  *Requests: Jared R (for saw)*
+- 6 battery packs for above, but 2-3 have weak cells and could use replacements.
 - conference phone - old US Robotics "3-legged" model
 
 
@@ -26,9 +29,9 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
   - 168 pin, 512Mb, PC133, Crucial branded
   - 2Gb204 SODIMM DDR3 PC3 8500 modules (ex laptop memory)
   - several other older modules, typically 256Mb
-- DELL 17" flat screen monitor (VGA only)
-- Toshiba Tecra M4 "convertible" pen notebook (screen folds flat to body for pen operation).  Spare batteries and CD drive.
-- Nokia 770 "Internet tablet" (early generation Linux stylus tablet)
+- DELL 17" flat screen monitor (VGA only) *Request: Tek M*
+- Toshiba Tecra M4 "convertible" pen notebook (screen folds flat to body for pen operation).  Spare batteries and CD drive. *Requests: Yvan J, Jared R, Peter L*
+- Nokia 770 "Internet tablet" (early generation Linux stylus tablet). *Requests: Yvan J, Jared R*
 - Belkin VGA+PS2 4-way KVM switch, with cables
 - various keyboards; mostly USB and PS2 connectors, but at least one logitech wireless
 - cables
@@ -39,11 +42,13 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 - various power cords
 - old-style mac display connector to HDMI
 - Mobile phone external aerial
-- various RC servos (~5V supply, driven by 1-2ms pulse width)  Some new, some used.
+- various RC servos (~5V supply, driven by 1-2ms pulse width)  Some new, some used.  *Requests: TimS* (there's probably enough to go round)
 - mini maglite (2*&AA size) body, spare bulbs and KLED conversion kit.  Internal bulb socket is missing, so not working.  Hackable?
 
 
 ## Photographic
+
+*Request: Jane C*
 
 - Patterson film developing tank for 2x35mm or 1x larger film
   - (I used to use this for B/W and Ektrachrome colour processing)
@@ -84,5 +89,5 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 
 ### Others
 
-- At home in the universe, Stuart Kauffman.  (A great read about self organising systems, from molecular to societal levels)
+- At home in the universe, Stuart Kauffman.  (A great read about self organising systems, from molecular to societal levels) *Request: David O*
 

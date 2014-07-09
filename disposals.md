@@ -21,21 +21,21 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 
 - Old tower server (based on early dual Athlon processors).  Various peripherals.
 - Various memory modules
-  -- 240 pin, 1Gb, PC2, 5300, I think they're unbuffered.
-  -- 168 pin, 256Mb, PC133
-  -- 168 pin, 512Mb, PC133, Crucial branded
-  -- 2Gb204 SODIMM DDR3 PC3 8500 modules (ex laptop memory)
-  -- several other older modules, typically 256Mb
+  - 240 pin, 1Gb, PC2, 5300, I think they're unbuffered.
+  - 168 pin, 256Mb, PC133
+  - 168 pin, 512Mb, PC133, Crucial branded
+  - 2Gb204 SODIMM DDR3 PC3 8500 modules (ex laptop memory)
+  - several other older modules, typically 256Mb
 - DELL 17" flat screen monitor (VGA only)
 - Toshiba Tecra M4 "convertible" pen notebook (screen folds flat to body for pen operation).  Spare batteries and CD drive.
 - Nokia 770 "Internet tablet" (early generation Linux stylus tablet)
 - Belkin VGA+PS2 4-way KVM switch, with cables
 - various keyboards; mostly USB and PS2 connectors, but at least one logitech wireless
 - cables
-  -- lots of RS232 D-connectors (25- and 9-way)
-  -- some VGA video
-  -- some old SCSI cables
-  -- Belkin USB "dockstation" (provides serial, parallel, PS2 keyboard/mouse connections via host USB port)
+  - lots of RS232 D-connectors (25- and 9-way)
+  - some VGA video
+  - some old SCSI cables
+  - Belkin USB "dockstation" (provides serial, parallel, PS2 keyboard/mouse connections via host USB port)
 - various power cords
 - old-style mac display connector to HDMI
 - Mobile phone external aerial
@@ -46,7 +46,7 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 ## Photographic
 
 - Patterson film developing tank for 2x35mm or 1x larger film
-  -- (I used to use this for B/W and Ektrachrome colour processing)
+  - (I used to use this for B/W and Ektrachrome colour processing)
 - film drying clips and squeegee
 - various measuring cylinders and bits
 
@@ -65,22 +65,22 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 
 - OReilly nutshell guides: Java enterprise, Python
 - OReilly "animal" books:
-   -- Jakarta Commons cookbook 
-   -- Perl Cookbook
-   -- CGI with PERL
-   -- Learning Perl
-   -- Programming Perl
-   -- Javascript definitive guide
-   -- CSS definitive guide
-   -- HTML / XHTML definitive guide
-   -- Python programming
-   -- Jython essentials  
+    - Jakarta Commons cookbook 
+    - Perl Cookbook
+    - CGI with PERL
+    - Learning Perl
+    - Programming Perl
+    - Javascript definitive guide
+    - CSS definitive guide
+    - HTML / XHTML definitive guide
+    - Python programming
+    - Jython essentials  
 - Other publishers:
-   -- Learning jQuery 1.3
-   -- jQuery UI 1.6
-   -- Core Java 2 vols 1 & 2; Horstman/Cornell
-   -- Java class libraries, second ed, vols 1 & 2 , Chan/Lee/Kramer
-   -- Core python programming (Chun)
+    - Learning jQuery 1.3
+    - jQuery UI 1.6
+    - Core Java 2 vols 1 & 2; Horstman/Cornell
+    - Java class libraries, second ed, vols 1 & 2 , Chan/Lee/Kramer
+    - Core python programming (Chun)
 
 ### Others
 

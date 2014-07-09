@@ -59,7 +59,7 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 ## Audio, toys, etc
 
 - Luxman T110 FM (only) tuner
-- Keyence "Engager GS III" E770,  early generation quad copter in need of some repairs.  Some spares included.  Includes 40MHz transmitter.  This is an old model, purchased in Japan, that uses conventional motors.  I don't know iof the electronics are hackable.
+- Keyence "Engager GS III" E770,  early generation quad copter in need of some repairs.  Some spares included.  Includes 40MHz transmitter.  This is an old model, purchased in Japan, that uses conventional motors.  I don't know iof the electronics are hackable. *Request: Jared R*
 
 
 ## Books

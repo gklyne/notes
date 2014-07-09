@@ -33,7 +33,7 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 - Toshiba Tecra M4 "convertible" pen notebook (screen folds flat to body for pen operation).  Spare batteries and CD drive. *Requests: Yvan J, Jared R, Peter L*
 - Nokia 770 "Internet tablet" (early generation Linux stylus tablet). *Requests: Yvan J, Jared R*
 - Belkin VGA+PS2 4-way KVM switch, with cables
-- various keyboards; mostly USB and PS2 connectors, but at least one logitech wireless
+- various keyboards; mostly USB and PS2 connectors, but at least one logitech wireless *Request: David O*
 - cables
   - lots of RS232 D-connectors (25- and 9-way)
   - some VGA video
@@ -76,16 +76,16 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
     - Learning Perl
     - Programming Perl
     - Javascript definitive guide
-    - CSS definitive guide
-    - HTML / XHTML definitive guide
-    - Python programming
+    - CSS definitive guide *Request: Peter L*
+    - HTML / XHTML definitive guide *Request: Peter L*
+    - Python programming *Request: Peter L*
     - Jython essentials  
 - Other publishers:
     - Learning jQuery 1.3
     - jQuery UI 1.6
     - Core Java 2 vols 1 & 2; Horstman/Cornell
     - Java class libraries, second ed, vols 1 & 2 , Chan/Lee/Kramer
-    - Core python programming (Chun)
+    - Core python programming (Chun) *Request: Peter L*
 
 ### Others
 

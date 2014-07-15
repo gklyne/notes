@@ -10,6 +10,8 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 - 6 battery packs for above, but 2-3 have weak cells and could use replacements.
 - conference phone - old US Robotics "3-legged" model
 
+I'm still waiting for word if OxHack wants any of these.
+
 
 ## Networking equipment
 
@@ -18,6 +20,9 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 - 3-COM Officeconnect 8-port dual speed (10/100) ethernet switch
 - old-style ethernet tranceivers (15-pin 802.3 ethernet to coax (10base2) or TP (10baseT))
 - 16-port 10/100 ethernet switch; internal power supply
+- **NEW** Netgear DG834G v3 4-port Ethernet/Wifi/ADSL router (useful for EMG village, for local WIFI?)
+
+I'm waiting to hear if the OxHack, or anyone, is interested in any of these.
 
 
 ## Electronics and computer components
@@ -30,8 +35,6 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
   - 2Gb204 SODIMM DDR3 PC3 8500 modules (ex laptop memory)
   - several other older modules, typically 256Mb
 - DELL 17" flat screen monitor (VGA only) *Request: Tek M*
-- Toshiba Tecra M4 "convertible" pen notebook (screen folds flat to body for pen operation).  Spare batteries and CD drive. *Requests: Yvan J, Jared R, Peter L*
-- Nokia 770 "Internet tablet" (early generation Linux stylus tablet). *Requests: Yvan J, Jared R*
 - Belkin VGA+PS2 4-way KVM switch, with cables
 - various keyboards; mostly USB and PS2 connectors, but at least one logitech wireless *Request: David O*
 - cables
@@ -42,8 +45,13 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 - various power cords
 - old-style mac display connector to HDMI
 - Mobile phone external aerial
-- various RC servos (~5V supply, driven by 1-2ms pulse width)  Some new, some used.  *Requests: TimS* (there's probably enough to go round)
 - mini maglite (2*&AA size) body, spare bulbs and KLED conversion kit.  Internal bulb socket is missing, so not working.  Hackable?
+
+Taken:
+
+- Toshiba Tecra M4 "convertible" pen notebook (screen folds flat to body for pen operation).  Spare batteries and CD drive.  *This has been left at OxHack*
+- Nokia 770 "Internet tablet" (early generation Linux stylus tablet).  *This has been left at OxHack*
+- various RC servos (~5V supply, driven by 1-2ms pulse width)  Some new, some used.  *These have been left at OxHack;  if anyone wants more I can probably find some*
 
 
 ## Photographic
@@ -59,7 +67,10 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
 ## Audio, toys, etc
 
 - Luxman T110 FM (only) tuner
-- Keyence "Engager GS III" E770,  early generation quad copter in need of some repairs.  Some spares included.  Includes 40MHz transmitter.  This is an old model, purchased in Japan, that uses conventional motors.  I don't know iof the electronics are hackable. *Request: Jared R*
+
+Taken:
+
+- Keyence "Engager GS III" E770,  early generation quad copter in need of some repairs.  Some spares included.  Includes 40MHz transmitter.  This is an old model, purchased in Japan, that uses conventional motors.  I don't know if the electronics are hackable.  *This has been left at OxHack with Jared;  Jared: I also have two original batteries (6-cell NiCad) and charge cable to bring in for you.*
 
 
 ## Books
@@ -76,16 +87,16 @@ Free to a good home, no warranties, etc.  Quite a bit is functional, some not bu
     - Learning Perl
     - Programming Perl
     - Javascript definitive guide
-    - CSS definitive guide *Request: Peter L*
-    - HTML / XHTML definitive guide *Request: Peter L*
-    - Python programming *Request: Peter L*
     - Jython essentials  
 - Other publishers:
     - Learning jQuery 1.3
     - jQuery UI 1.6
     - Core Java 2 vols 1 & 2; Horstman/Cornell
     - Java class libraries, second ed, vols 1 & 2 , Chan/Lee/Kramer
-    - Core python programming (Chun) *Request: Peter L*
+    - Core python programming (Chun)
+
+I'll propbably get shot of these soon if nobody makes a claim.
+
 
 ### Others
 

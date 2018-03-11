@@ -67,6 +67,31 @@ At the current time, it does not appear to have made its way into the formal CID
 - http://www.cidoc-crm.org/Property/p14-carried-out-by/version-6.1
 - http://erlangen-crm.org/docs/ecrm/091125/objectproperties/P14.carried_out_by___1817958994.html (mentions )
 
+## Specialized object resources
+
+Rather than reifying the property itself, the object could be repkaced by a new node that is a specialization of the intended object.  Additional qualifications could be addec to the sepcialized obvject resource.
+
+NOTE: this possible pattern is not, to my knowledge, documented anywhere.  It occured to me while reviewing [`when` clause in `part-of` relation ](https://github.com/LinkedPasts/lp-network/issues/1#issuecomment-372062162), and considering that in place of:
+
+    { "@id": "myplace:Oxford",
+       "part_of": [
+            { "@id": "myplace:Oxfordshire",
+              "when": {"timespans": [["1000","","","2018",""]]}
+            }
+        ]
+    }
+
+one might write:
+
+    { "@id": "myplace:Oxford",
+       "part_of": [
+            { "prov:specializationOf": "myplace:Oxfordshire",
+              "when": {"timespans": [["1000","","","2018",""]]}
+            }
+        ]
+    }
+
+
 ## Other links
 
 - http://patterns.dataincubator.org/book/

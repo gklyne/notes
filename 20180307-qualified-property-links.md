@@ -91,6 +91,8 @@ one might write:
         ]
     }
 
+See PROV [specializationOf property](http://www.w3.org/TR/prov-o/#specializationOf).
+
 
 ## Other links
 

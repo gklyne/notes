@@ -94,8 +94,18 @@ one might write:
 See PROV [specializationOf property](http://www.w3.org/TR/prov-o/#specializationOf).
 
 
+## Web Annotations
+
+Can [Web Annotations](https://www.w3.org/blog/news/archives/6156) serve a riole similar to reified properties?  An annotation acts as a kind or relation between a "target" and a "body" (which may be desigated as URIs), but also carries additional information (e.g. PROV-like who, when).
+
+@@TODO: Needs more investigation.
+
+
 ## Other links
 
 - http://patterns.dataincubator.org/book/
 - http://patterns.dataincubator.org/book/qualified-relation.html
-
+- https://www.w3.org/blog/news/archives/6156
+    - https://www.w3.org/TR/2017/REC-annotation-model-20170223/
+    - https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/
+    - https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/

@@ -100,12 +100,14 @@ Can [Web Annotations](https://www.w3.org/blog/news/archives/6156) serve a riole 
 
 @@TODO: Needs more investigation.
 
+See also:
+
+- https://www.w3.org/TR/2017/REC-annotation-model-20170223/
+- https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/
+- https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/
+
 
 ## Other links
 
 - http://patterns.dataincubator.org/book/
 - http://patterns.dataincubator.org/book/qualified-relation.html
-- https://www.w3.org/blog/news/archives/6156
-    - https://www.w3.org/TR/2017/REC-annotation-model-20170223/
-    - https://www.w3.org/TR/2017/REC-annotation-vocab-20170223/
-    - https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/

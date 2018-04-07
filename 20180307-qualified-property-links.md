@@ -107,6 +107,25 @@ See also:
 - https://www.w3.org/TR/2017/REC-annotation-protocol-20170223/
 
 
+## RDF\* and SPARQL\*
+
+I haven't reviewed these mechanisms, but am including them here for reference.  Being a non-standard extension to RDF, it's probably not a viable choice for practical use at this time (early 2018).
+
+"The idea of RDF* is to extend RDF with the possibility to 
+have triples as the subject or the object of other triples (i.e., nested 
+triples)" -- https://lists.w3.org/Archives/Public/semantic-web/2018Apr/0030.html
+
+[1] Olaf Hartig and Bryan Thompson: Foundations of an Alternative Approach to 
+Reification in RDF. In CoRR abs/1406.3399, 2014.  http://arxiv.org/pdf/1406.3399
+
+[2] Olaf Hartig: Reconciliation of RDF* and Property Graphs. In CoRR abs/
+1409.3288, 2014. http://arxiv.org/pdf/1409.3288
+
+[3] Olaf Hartig: Foundations of RDF* and SPARQL* - An Alternative Approach to 
+Statement-Level Metadata in RDF. In Proceedings of the 11th Alberto Mendelzon 
+International Workshop on Foundations of Data Management (AMW), 2017. http://olafhartig.de/files/Hartig_AMW2017_RDFStar.pdf
+
+
 ## Other links
 
 - http://patterns.dataincubator.org/book/

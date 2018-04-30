@@ -10,6 +10,19 @@ Note that there is a fair degree of overlap between the different approaches ref
 
 Many of the approaches involve what I call "reificaton of the relation", which is creating a new resource type to represent relationships between entities, instances of which represent specific instances of that relationship.  By being a resource, it is possible to add additional statements that are specific to a particular use or instance of the relation.  (For comparison, in RDF, a property URI refers to *all* uses of the denoted relation, in the same way that a class URI refers to all instances of that class.)
 
+## Subproperties
+
+For example, to capture the role of a musician in a performance, use a specific subproperty of "performs in"; e.g. "plays guitar in".
+
+There are two drawbacks:
+
+1. limited addiitonal information can be associated in this way; it's not so easy to associate, say, a time peridod with a relationship between places.
+
+2. harder for OWL inference.  In particular, when there is an open-ended set of possible properties, efficient class-based reasoning based on OWL-QL is lo longer available.
+
+See also: singleton properties (below).
+
+
 ## RDF reification
 
 - http://www.w3.org/TR/rdf-primer/#reification

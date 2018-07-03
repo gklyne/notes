@@ -139,7 +139,34 @@ Statement-Level Metadata in RDF. In Proceedings of the 11th Alberto Mendelzon
 International Workshop on Foundations of Data Management (AMW), 2017. http://olafhartig.de/files/Hartig_AMW2017_RDFStar.pdf
 
 
+## Encode triple as URI
+
+@@NOTE: this is just a rough idea, not really worked out, recorded here for later review.
+
+This might be a variation of RDF\*.  e.g.
+
+    http://rdfstatement.example.org/subjuri/propuri/objuri
+
+or
+
+    http://rdfstatement.example.org?s=subjuri&p=propuri&o=objuri
+
+with appropriate %-encoding applied.  A disadvantage of this approach is that it wouldn't apply so easily to statements containing literals without some more thought.
+
+@@NOTE: also need to consider how to handle embedded URIs that are themselves statement URIs - is double %-escaping required?
+
+A variation might be to use a data: URI, such as
+
+    data:application/n-triples,<suburi> <propuri> <objuri> .
+
+again with %-encoding applied as needed.  
+
+These approaches might offer a way to capture advantages of the RDF\* approach using standard RDF store software.
+
+
 ## Other links
 
 - http://patterns.dataincubator.org/book/
 - http://patterns.dataincubator.org/book/qualified-relation.html
+- http://www.w3.org/TR/n-triples/
+- https://tools.ietf.org/html/rfc2397

@@ -107,6 +107,20 @@ one might write:
 See PROV [specializationOf property](http://www.w3.org/TR/prov-o/#specializationOf).
 
 
+## Bio CRM
+
+See:
+- https://seco.cs.aalto.fi/publications/2018/tuominen-et-al-bio-crm-2018.pdf
+
+"Bio CRM extends CIDOC CRM by introducing role-centric modeling."
+
+Viewing the figure 1 in this paper, it appears that BIO CRM uses a form of specialized object resource (see above) for capturimng role information.
+
+The paper suggests the formal description is at http://ldf.fi/schema/bioc/, but I could not retrieve that URL (as of 2019-06-19).  "The namespace of the Bio CRM schema is [http://ldf.fi/schema/bioc/](http://ldf.fi/schema/bioc/), here used with the prefix `bioc`. The full specification of Bio CRM (class and property listing) is available in the namespace URI."
+
+The paper seems to be unclear about the role of `bioc:Actor_role` - the class structure implies instances denotes a specialization of an Actor.  But the accompanying text and examples suggest it is (more like) a reification of the role relatonship, which would be incompatible with the use of `crm:P11_had_participant`.
+
+
 ## Web Annotations
 
 Can [Web Annotations](https://www.w3.org/blog/news/archives/6156) serve a riole similar to reified properties?  An annotation acts as a kind or relation between a "target" and a "body" (which may be desigated as URIs), but also carries additional information (e.g. PROV-like who, when).

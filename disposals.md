@@ -95,7 +95,7 @@ Taken:
     - Java class libraries, second ed, vols 1 & 2 , Chan/Lee/Kramer
     - Core python programming (Chun)
 
-I'll propbably get shot of these soon if nobody makes a claim.
+I'll probably get shot of these soon if nobody makes a claim.
 
 
 ### Others

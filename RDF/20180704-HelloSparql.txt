@@ -1,0 +1,47 @@
+Using SPARQL to explore a dataset
+
+
+Common prefix:
+
+    PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX xml:  <http://www.w3.org/XML/1998/namespace>
+    PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+    PREFIX owl:  <http://www.w3.org/2002/07/owl#>
+    PREFIX dc:   <http://purl.org/dc/elements/1.1/>
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX prov: <http://www.w3.org/ns/prov#>
+
+Then, to find all resoirce types in the database:
+
+    SELECT DISTINCT ?class 
+    WHERE
+    { ?class rdf:type rdfs:Class }
+
+or:
+
+    SELECT DISTINCT ?class 
+    WHERE
+    { ?s rdf:type ?rdfs:Class }
+
+NOTE: these are different approaches, may return different values.
+
+To find all properties associated with instances of a given type:
+
+    SELECT DISTINCT ?p
+    WHERE
+    { ?s rdf:type <type-uri> ;
+         ?p ?o
+    }
+
+
+
+
+
+Ask Terhi about Jazzcats instruments...
+
+Give me names of trumpet players who perform on recordings of sounds in key of Db where the performance also includes a piano.
+
+
+
+

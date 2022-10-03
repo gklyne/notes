@@ -1,0 +1,73 @@
+Zhao J, Klyne G, Shotton D. Provenance and linked data in biological data webs, Proc. 17th International World Wide Web Conference WWW2008 (Workshop: LDOW2008) Beijing (http://events.linkeddata.org/ldow2008/papers/07-zhao-klyne-provenance-linked-data.pdf)
+ 
+Donna Kurtz, Greg Parker, David M. Shotton, Graham Klyne, Florian Schroff, Andrew Zisserman, Yorick Wilks. _CLAROS - Bringing Classical Art to a Global Public_ , Fifth International Conference on e-Science, e-Science 2009, 9-11 December 2009, Oxford, UK; 01/2009 
+https://doi.org/10.1109/e-Science.2009.11
+ 
+Zhao J, Klyne G, Shotton D (2008) Building a Semantic Web accessible image repository, Proc. 5th European Semantic Web Conference; 2-5 June 2008; Tenerife. Springer. pp. 154-169. Lecture Notes in Computer Science, 5021: 154-169.
+https://doi.org/10.1007/978-3-540-68234-9_14
+ 
+ G. Klyne, F. Reynolds, C. Woodrow, H. Ohto, J. Hjelm, M. Butler, L. Tran . Composite capability/preference profiles (cc/pp): structure and vocabularies, W3C Recommendation, January 2004 (http://www.w3.org/TR/CCPP-struct-vocab/)
+ 
+D. Crocker, G. Klyne. RFC 4142, Full-mode Fax Profile for Internet Mail (FFPIM), IETF, November 2005. (http://www.ietf.org/rfc/rfc4142)
+https://doi.org/10.17487/rfc4142
+ 
+G. Klyne, J. Palme. RFC 4021, Registration of Mail and MIME Header Fields, IETF, March 2005 (http://www.ietf.org/rfc/rfc4021)
+https://doi.org/10.17487/rfc4021
+ 
+G. Klyne, M. Nottingham and J. Mogul. RFC3864, Registration Procedures for Message Header Fields, IETF, September 2004 (http://www.ietf.org/rfc/rfc3864)
+https://doi.org/10.17487/rfc3864
+ 
+H. Sugano, S. Fujimoto, G. Klyne, A. Bateman, W. Carr and J. Peterson. RFC3863, Presence Information Data Format (PIDF), IETF, August 2004 (http://www.ietf.org/rfc/rfc3863)
+https://doi.org/10.17487/rfc3863
+ 
+G. Klyne and D. Atkins. RFC3862, Common Presence and Instant Messaging (CPIM): Message Format, IETF, August 2004 (http://www.ietf.org/rfc/rfc3862)
+https://doi.org/10.17487/rfc3862
+ 
+Graham Klyne and Jeremy J. Carroll. Resource Description Framework (RDF): Concepts and Abstract Syntax, W3C Recommendation, February 2004 (http://www.w3.org/TR/rdf-concepts/)
+ 
+Graham Klyne, Franklin Reynolds, Chris Woodrow, Hidetaka Ohto, Johan Hjelm, Mark H. Butler and Luu Tran. Composite Capabilities/Preference Profiles (CC/PP): Structure and Vocabularies, W3C Recommendation, January 2004 (http://www.w3.org/TR/CCPP-struct-vocab/)
+ 
+M. Mealling, L. Masinter, T. Hardie and G. Klyne. RFC3553, An IETF URN Sub-namespace for Registered Protocol Parameters, IETF, June 2003 (http://www.ietf.org/rfc/rfc3553)
+https://doi.org/10.17487/rfc3553
+ 
+E. Burger, E. Candell, C. Eliot and G. Klyne. RFC3458, Message Context for Internet Mail, IETF, January 2003 (http://www.ietf.org/rfc/rfc3458)
+https://doi.org/10.17487/rfc3458
+ 
+E. Dixon, H. Franklin, J. Kint, G. Klyne, D. New, S. Pead, M. Rose and M. Schwartz. RFC3342, The Application Exchange (APEX) Option Party Pack, Part Deux!, IETF, July 2002 (http://www.ietf.org/rfc/rfc3342)
+https://doi.org/10.17487/rfc3342
+ 
+M. Rose, G. Klyne and D. Crocker. RFC3341, The Application Exchange (APEX) Access Service, IETF, July 2002 (http://www.ietf.org/rfc/rfc3341)
+https://doi.org/10.17487/rfc3341
+ 
+M. Rose, G. Klyne and D. Crocker. RFC3340, The Application Exchange Core, IETF, July 2002 (http://www.ietf.org/rfc/rfc3340)
+https://doi.org/10.17487/rfc3340
+ 
+G. Klyne and C. Newman. RFC3339, Date and Time on the Internet: Timestamps, IETF, July 2002 (http://www.ietf.org/rfc/rfc3339)
+https://doi.org/10.17487/rfc3339
+ 
+G. Klyne, R. Iwazaki and D. Crocker. RFC3297, Content Negotiation for Messaging Services based on Email, IETF, July 2002 (http://www.ietf.org/rfc/rfc3297)
+https://doi.org/10.17487/rfc3297
+ 
+G. Klyne and L. Masinter. RFC2938: Identifying Composite Media Features, IETF, September 2000 (http://www.ietf.org/rfc/rfc2938)
+https://doi.org/10.17487/rfc2938
+ 
+G. Klyne. RFC2913: MIME Content Types in Media Feature Expressions, IETF, September 2000 (http://www.ietf.org/rfc/rfc2913)
+https://doi.org/10.17487/rfc2913
+ 
+G. Klyne. RFC2912: Indicating Media Features for MIME Content, IETF, September 2000 (http://www.ietf.org/rfc/rfc2912)
+https://doi.org/10.17487/rfc2912
+ 
+L. McIntyre and G. Klyne. RFC2880: Internet Fax T.30 Feature Mapping, IETF, August 2000 (http://www.ietf.org/rfc/rfc2880)
+https://doi.org/10.17487/rfc2880
+ 
+G. Klyne and L. McIntyre. RFC2879: Content Feature Schema for Internet Fax (V2), IETF, August 2000 (http://www.ietf.org/rfc/rfc2879)
+https://doi.org/10.17487/rfc2879
+ 
+G. Klyne. RFC2703: Protocol-independent Content Negotiation Framework, IETF, September 1999 (http://www.ietf.org/rfc/rfc2703)
+https://doi.org/10.17487/rfc2703
+ 
+G. Klyne. RFC2533: A Syntax for Describing Media Feature Sets, IETF, March 1999 (http://www.ietf.org/rfc/rfc2533)
+https://doi.org/10.17487/rfc2533
+ 
+G. Klyne and L. McIntyre. RFC2531: Content Feature Schema for Internet Fax, IETF, March 1999 (http://www.ietf.org/rfc/rfc2531)
+https://doi.org/10.17487/rfc2531

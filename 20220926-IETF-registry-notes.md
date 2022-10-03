@@ -1,6 +1,35 @@
 # 20220926-IETF-registry-notes.md
 
 
+## Discussion agenda
+
+Reviewer succession planning
+
+Provisional FCFS issues
+
+- P1: schemes not meeting formal requirements (e.g., syntax)
+- P2, P8: schemes passing standards-track last call with inadequate review
+- P3: Inaccessible or incomplete documentation
+- P4: Should there be a "specification required" for provisional registrations?
+- P5: What form should the specification take?
+- P6: What are acceptable formats for providing the registration template?
+- P7: Bogus registration requests
+
+Permanent scheme registration
+
+- S1, S2: how to judge "utility" (as part of "Demonstrable, New, Long-Lived Utility"?
+- S3: Non-IETF-stream RFC publication
+- S4, S6: Adequacy of documentation
+- S5: The registration procedure isn't clear about the need for consensus
+- S7: Ppersistent registration attempts
+- S8: Change control for permanent registrations
+
+Other issues encountered
+
+- O1: binary data in URIs
+- O2: IESG approval of standards status without prior review of URI schemes
+- O3: Removing registry entries
+
 
 ## Introduction
 
@@ -60,6 +89,8 @@ In hindsight, I think the move to FCFS has probably caused more work than it has
     - IANA maintains a list of recognized open standards bodies for purposes of MIME registration, which I refer to (https://www.iana.org/assignments/iesg-recognized-organizations/iesg-recognized-organizations.xhtml)
 
     - "widespread use" is commonly judged by an online search for the requested URI scheme.
+
+    - see also email from Larry Masinter of 2010-01-29 about "widgets".  (http://www.w3.org/mid/C68CB012D9182D408CED7B884F441D4D5FEC60@nambxv01a.corp.adobe.com)
 
 - S2: Other concerns for showing "Demonstrable, New, Long-Lived Utility".  New would mean showing that existing schemes do not provide the required capabilities.  "Long-lived" would mean 2 things: (a) that the specification is stable and will continue to be accessible, and (b) that the described use is not dependent on some transient aspect of the Internet or WWW.
 

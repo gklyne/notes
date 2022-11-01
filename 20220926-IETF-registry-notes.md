@@ -21,7 +21,7 @@ Permanent scheme registration
 - S3: Non-IETF-stream RFC publication
 - S4, S6: Adequacy of documentation
 - S5: The registration procedure isn't clear about the need for consensus
-- S7: Ppersistent registration attempts
+- S7: Persistent registration attempts
 - S8: Change control for permanent registrations
 
 Other issues encountered
@@ -92,6 +92,16 @@ In hindsight, I think the move to FCFS has probably caused more work than it has
 
     - see also email from Larry Masinter of 2010-01-29 about "widgets".  (http://www.w3.org/mid/C68CB012D9182D408CED7B884F441D4D5FEC60@nambxv01a.corp.adobe.com)
 
+In an email about the registration procedure for top level types, Harald Alvestrand makes some points about "commitment to use":  
+
+    - "Must have a community of interest that says “we’ll use it” with some credibility"
+
+    - "Existing wide use [...] should be seen as sign of commitment to use ..."
+
+    - (see: https://mailarchive.ietf.org/arch/msg/media-types/h0XrsLb5JrjOwRkwVuSS0QFuJsY/)
+
+These points seem to me like good criteria for permanent URI registration.
+
 - S2: Other concerns for showing "Demonstrable, New, Long-Lived Utility".  New would mean showing that existing schemes do not provide the required capabilities.  "Long-lived" would mean 2 things: (a) that the specification is stable and will continue to be accessible, and (b) that the described use is not dependent on some transient aspect of the Internet or WWW.
 
 - S3: RFC7595 discusses updating scheme status on "publication as an RFC" (sect 7.4).  I understand this was drafted before the RFC ISE stream was established, which does not require IETF review.  I tend to query registration requests that come via ISE stream, requesting more evidence of widespread review.  To some extent, this is ameliorated by an IESG conflict review, but this does not always cover URI-scheme concerns.  (Similar concerns can arise with IRTF-stream requests, but here there's usually some clearer sense of community consensus.)
@@ -119,7 +129,7 @@ In hindsight, I think the move to FCFS has probably caused more work than it has
 
 - O3: Removing registry entries.  Should this be possible, or use "tombstone" entries.
 
-
+- O4: For whom are the registration procedures written?  The main audience seems to be protocol designers working in the IETF, and familiar with IETF values and conventions.  For the most part, this has worked fine, but I feel there have been some cases recently of people coming from outside the IETF and failing to appreciate the "rough consensus" that informs the decision processes.  Also, there are assumptions that would be recognized by people working within the IETF, but those coming from outside may not be aware of (e.g. with respect to a desire for freely accessible specification documents).  Another example would be the expectation for discussion and review to not only establish a lack of objections, but also to show that there is real community support for a proposal.
 
 
 ## Suggestions
@@ -132,11 +142,11 @@ Possible remedies
 
 1. Revert to "Expert review", with the explicit intention that the expert should allow provisional registration unless the scheme is clearly bogus or ill-conceived.
 
-2. Instruct IANA to post notice of provisional registrations (or all new registrations) to the URI-review list
+2. Instruct IANA to post notice of provisional registrations (or all new registrations) to the URI-review list.
 
 ### P4 ("specification required" for provisional registrations?)
 
-Can this be clarified with an erratum:  a public specification is RECOMMENDED for provisional registrations, and REQUIRED for permanent registrations.
+Can this be clarified with an erratum:  a public specification is RECOMMENDED for provisional registrations, and REQUIRED for permanent registrations?
 
 ### P5 (form of specification)
 
@@ -188,6 +198,8 @@ Either:
 
 
 
+
+
 @@@ 2. FCFS for provisional registrations "All this suggests to me there may be a process issue with URI scheme registration, now that provisional registrations are not reviewed. I’m not sure that there’s an easy fix, but it would have been helpful if I’d had a chance to raise discussion on URI-review before the document gained IESG approval for publication." 2022-08-02 (coswid)
 @@@ suggest?:
 """
@@ -200,22 +212,13 @@ When adding or a provisional URI scheme, IANA sends an announcement email to URI
 
 
 
-
-
-
-
-
-
-@@@ suggest: IANA-checkable specification required for provisional registration @@@.)
+@@@ suggest: IANA-checkable "specification required" criteria for provisional registration @@@.)
 
 @@@ also suggest: public checklist for all registrations? @@@
 
 @@@ 10. Checklist for reviewers? (cf emails with Larry ~ 2007-07-20)
 
 @@@ DE maybe provide holding response, and directly request feedback on URI-review list?  (Suggested by RFC5226)
-
-
-
 
 
 ## Reviewer succession planning
@@ -226,9 +229,6 @@ When adding or a provisional URI scheme, IANA sends an announcement email to URI
 Suggest appointing a new reviewer with whom I can work for a period of time (e.g. a year).
 
 Also, an updatable checklist should make it easier for a new reviewer to pick up and apply the process, without eliminating the role of informed judgement.
-
-
-
 
 
 
